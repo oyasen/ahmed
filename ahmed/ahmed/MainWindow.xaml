@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:ahmed"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Background="Red">
+        <Label FontSize="100">yassin5awl</Label>
         
     </Grid>
 </Window>
